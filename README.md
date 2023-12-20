@@ -1,4 +1,4 @@
-# tafar
+# TAFAR - Transformer Autoencoder for Human Action Recognition
 Human action recognition plays a pivotal role in various
 real-world applications, including surveillance systems,
 robotics, and occupant monitoring in the car interior.
